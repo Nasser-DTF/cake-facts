@@ -8,14 +8,18 @@ int main() {
 
     // Array of cake facts
     const char* cakeFacts[] = {
+        "Cakes suck!",
         "The world's largest cake weighed over 128,000 pounds.",
         "The tradition of a birthday cake can be traced back to ancient Greece.",
+        "A Cake kills someone every 10 minutes in America.",
         "The most expensive cake ever made cost over $75 million.",
         "The record for the tallest cake is over 108 feet.",
         "The word 'cake' comes from the Old Norse word 'kaka.'",
         "Marie Antoinette never said 'Let them eat cake.'",
+        "Cakes started WWII",
         "The first cupcake recipe appeared in 1796.",
         "Red velvet cake was originally made with beetroot for color.",
+        "A Cake once yelled at your grandma.",
         "The largest cupcake ever made weighed over 1,200 pounds.",
         "The world's most expensive cupcake costs over $1,000."
     };
